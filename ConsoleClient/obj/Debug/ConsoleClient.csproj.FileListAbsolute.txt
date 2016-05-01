@@ -1,0 +1,8 @@
+c:\users\darks\documents\visual studio 2013\Projects\ConsoleTest\ConsoleClient\bin\Debug\ConsoleClient.exe.config
+c:\users\darks\documents\visual studio 2013\Projects\ConsoleTest\ConsoleClient\bin\Debug\ConsoleClient.exe
+c:\users\darks\documents\visual studio 2013\Projects\ConsoleTest\ConsoleClient\bin\Debug\ConsoleClient.pdb
+c:\users\darks\documents\visual studio 2013\Projects\ConsoleTest\ConsoleClient\obj\Debug\ConsoleClient.exe
+c:\users\darks\documents\visual studio 2013\Projects\ConsoleTest\ConsoleClient\obj\Debug\ConsoleClient.pdb
+C:\Users\darks\documents\visual studio 2013\Projects\ConsoleTest\ConsoleClient\obj\Debug\ConsoleClient.csprojResolveAssemblyReference.cache
+C:\dev\ConsoleTest\ConsoleClient\obj\Debug\ConsoleClient.csprojResolveAssemblyReference.cache
+C:\dev\ConsoleTest\ConsoleClient\obj\Debug\ConsoleClient.exe
