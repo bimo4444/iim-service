@@ -21,7 +21,7 @@ namespace ConsoleClient
                 {
                     cf.Endpoint.Behaviors.Add(new WebHttpBehavior());
                     IService channel = cf.CreateChannel();
-                    Console.WriteLine(channel.GetStoresList());
+                    //Console.WriteLine(channel.GetStoresList());
                 }
                 Console.ReadLine();
             }
@@ -30,7 +30,6 @@ namespace ConsoleClient
                 Console.WriteLine("An exception occurred: {0}", x.Message);
                 Console.ReadLine();
             }
-            
         }
     }
 }
