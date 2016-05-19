@@ -1,0 +1,16 @@
+*********************************************************************************************************************************************
+01.05.2016 19:11:14 DESKTOP-KRUHAN2 DESKTOP-KRUHAN2$
+Протоколу HTTP не удалось зарегистрировать URL-адрес http://+:666/test/. Текущий процесс не имеет прав доступа к этому пространству имен (подробнее см. на веб-странице http://go.microsoft.com/fwlink/?LinkId=70353).
+System.ServiceModel
+   в System.ServiceModel.Channels.SharedHttpTransportManager.OnOpen()
+   в System.ServiceModel.Channels.TransportManager.Open(TransportChannelListener channelListener)
+   в System.ServiceModel.Channels.TransportManagerContainer.Open(SelectTransportManagersCallback selectTransportManagerCallback)
+   в System.ServiceModel.Channels.TransportChannelListener.OnOpen(TimeSpan timeout)
+   в System.ServiceModel.Channels.HttpChannelListener`1.OnOpen(TimeSpan timeout)
+   в System.ServiceModel.Channels.CommunicationObject.Open(TimeSpan timeout)
+   в System.ServiceModel.Dispatcher.ChannelDispatcher.OnOpen(TimeSpan timeout)
+   в System.ServiceModel.Channels.CommunicationObject.Open(TimeSpan timeout)
+   в System.ServiceModel.ServiceHostBase.OnOpen(TimeSpan timeout)
+   в System.ServiceModel.Channels.CommunicationObject.Open(TimeSpan timeout)
+   в System.ServiceModel.Channels.CommunicationObject.Open()
+   в WinService.WindowsService.OnStart(String[] args)
